@@ -3,6 +3,7 @@
 #include <iostream>
 #include <cstdio> 
 #include <unistd.h>
+#include <math.h>
 #define MAX 10
 
 using namespace std; 
